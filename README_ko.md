@@ -1,5 +1,8 @@
 # 최근 공개된 PCC 펌웨어의 VPHONE600AP 컴포넌트를 이용하여 가상 아이폰 환경 구축해보기
 
+# 프로젝트 링크
+https://github.com/wh1te4ever/super-tart-vphone
+
 # 도움주신 고마운 분
 
 - [dlevi309](https://github.com/dlevi309) (가상 아이폰에서 터치 상호작용에 대한 아이디어 제공)

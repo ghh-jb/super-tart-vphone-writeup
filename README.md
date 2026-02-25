@@ -1,5 +1,8 @@
 # Building virtual iPhone using VPHONE600AP component of recently released PCC firmware
 
+# Project has been now open-sourced
+https://github.com/wh1te4ever/super-tart-vphone
+
 # Special Thanks / Acknowledgements
 
 - [dlevi309](https://github.com/dlevi309) (Provided ideas for touch interaction on virtual iPhone)
