@@ -1,8 +1,5 @@
 # Building virtual iPhone using VPHONE600AP component of recently released PCC firmware
 
-# Project has been now open-sourced
-https://github.com/wh1te4ever/super-tart-vphone
-
 # Special Thanks / Acknowledgements
 
 - [dlevi309](https://github.com/dlevi309) (Provided ideas for touch interaction on virtual iPhone)
@@ -867,3 +864,6 @@ Source: [https://security.apple.com/documentation/private-cloud-compute/vresetup
 Unlike Tahoe version 26, touch interaction is not possible using only the VZVirtualMachineView object, so it was necessary to override the mouse event functions.
 
 [ScreenSharingVNC.swift](contents/ScreenSharingVNC.swift)
+
+### Project SRC
+- https://github.com/wh1te4ever/super-tart-vphone
